@@ -1,14 +1,14 @@
 import React from "react";
 import Heading from "./Header";
 import Footer from "./Footer";
-import Note from "./Note";
+import NoteGen from "./NoteGen";
 
 function App() {
   return (
     <div>
       <Heading />
+      <NoteGen />
       <Footer />
-      <Note />
     </div>
   );
 }
