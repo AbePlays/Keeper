@@ -60,8 +60,9 @@ footer p {
   float: right;
   margin-right: 10px;
   color: #f5ba13;
+  background-color: #fff;
   border: none;
-  width: 36px;
+  width: 42px;
   height: 36px;
   cursor: pointer;
   outline: none;
